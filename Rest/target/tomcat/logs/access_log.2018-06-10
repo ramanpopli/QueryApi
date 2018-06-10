@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [10/Jun/2018:00:38:22 +0530] "POST /Rest/Queryprocess HTTP/1.1" 200 14 http-bio-8080-exec-2 56082
+0:0:0:0:0:0:0:1 - - [10/Jun/2018:20:22:44 +0530] "CONNECT client.dropbox.com:443 HTTP/1.1" 400 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [10/Jun/2018:20:22:46 +0530] "CONNECT update.googleapis.com:443 HTTP/1.1" 400 - http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [10/Jun/2018:20:22:49 +0530] "CONNECT client.dropbox.com:443 HTTP/1.1" 400 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [10/Jun/2018:20:22:56 +0530] "CONNECT update.googleapis.com:443 HTTP/1.1" 400 - http-bio-8080-exec-7 0
+0:0:0:0:0:0:0:1 - - [10/Jun/2018:20:22:56 +0530] "POST /service/update2?cup2key=8:1674680777&cup2hreq=5980aaab8ca00cf897dde35a3317ee62b9c14cd7f5cc39ef11b8698ca82bbcdf HTTP/1.1" 404 981 http-bio-8080-exec-8 56
+0:0:0:0:0:0:0:1 - - [10/Jun/2018:20:23:05 +0530] "POST /service/update2?cup2key=8:3446353759&cup2hreq=5980aaab8ca00cf897dde35a3317ee62b9c14cd7f5cc39ef11b8698ca82bbcdf HTTP/1.1" 404 981 http-bio-8080-exec-9 2

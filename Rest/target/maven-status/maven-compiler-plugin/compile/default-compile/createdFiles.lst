@@ -1,0 +1,6 @@
+com\controller\QueryController.class
+com\entity\QueryEntity.class
+com\dao\QueryDaoImpl.class
+com\dao\QueryDao.class
+com\service\QueryService.class
+com\service\QueryServiceImpl.class
